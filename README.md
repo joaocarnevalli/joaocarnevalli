@@ -3,7 +3,7 @@ My name is João, I'm 19 years old and I'm a Cyber Security fan! I'm looking for
 
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=joaocarnevalli&show_icons=true&theme=blue-green" />
 
-<img align="right" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaocarnevalli&layout=compact)](https://github.com/anuraghazra/github-readme-stats" />
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaocarnevalli&layout=compact)](https://github.com/anuraghazra/github-readme-stats" />
 
 ![Bitcoin](https://img.shields.io/badge/Bitcoin-000?style=for-the-badge&logo=bitcoin&logoColor=white)
 ![Ethereum](https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=Ethereum&logoColor=white)
