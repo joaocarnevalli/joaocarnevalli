@@ -1,7 +1,7 @@
 # Hi 🖖, im João
 My name is João, I'm 19 years old and I'm a Cyber Security fan! I'm looking for vacancies in the area (Internship or Junior) in order to develop my technical and interpersonal skills. I have ease of learning and enthusiasm to perform at a high level.
 
-<img src="https://github-readme-stats.vercel.app/api?username=joaocarnevalli&show_icons=true&theme=blue-green" />
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=joaocarnevalli&show_icons=true&theme=blue-green" />
 
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaocarnevalli&layout=compact)](https://github.com/anuraghazra/github-readme-stats" />
 
