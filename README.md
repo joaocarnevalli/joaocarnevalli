@@ -1,5 +1,5 @@
 # Hi 🖖, im João 
-My name is João, I'm 20 years old and I'm a Cyber Security Analyst. 
+My name is João, I'm 22 years old and I'm a Cyber Security Analyst. 
 
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=joaocarnevalli&show_icons=true&theme=blue-green" />
 
